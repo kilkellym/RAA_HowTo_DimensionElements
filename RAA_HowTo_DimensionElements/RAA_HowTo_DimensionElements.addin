@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_HowTo_DimensionElements - Command 1</Text>
+    <Description>Some description for RAA_HowTo_DimensionElements</Description>
+    <Assembly>RAA_HowTo_DimensionElements.dll</Assembly>
+    <FullClassName>RAA_HowTo_DimensionElements.Command1</FullClassName>
+    <ClientId>e287bde4-bcec-4e28-aaf5-e11e76ebdc02</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_HowTo_DimensionElements - Command 2</Text>
+    <Description>Some description for RAA_HowTo_DimensionElements</Description>
+    <Assembly>RAA_HowTo_DimensionElements.dll</Assembly>
+    <FullClassName>RAA_HowTo_DimensionElements.Command2</FullClassName>
+    <ClientId>15ea8850-8a71-452d-b1f2-86f1d3a863ff</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_HowTo_DimensionElements</Name>
+    <Assembly>RAA_HowTo_DimensionElements.dll</Assembly>
+    <FullClassName>RAA_HowTo_DimensionElements.App</FullClassName>
+    <ClientId>148257a6-6c87-430a-a54c-e1418c629c07</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
